@@ -38,7 +38,7 @@ npm install
 
 Create a .env file in the root directory and add:
 
-VITE_YOUTUBE_API_KEY=your_youtube_api_key_here
+VITE_KEY=your_youtube_api_key_here
 
 4️⃣ Start the Development Server
 
