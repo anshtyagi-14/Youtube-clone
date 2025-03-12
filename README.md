@@ -1,6 +1,3 @@
-Here’s a README.md file for your YouTube Clone Web App built using Vite and YouTube API. 🚀
-
-⸻
 
 📌 YouTube Clone - Vite + YouTube API
 
